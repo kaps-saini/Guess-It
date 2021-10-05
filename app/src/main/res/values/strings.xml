@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Guess It</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">Play</string>
+    <string name="guess_it">Guess It..</string>
+    <string name="get_ready_to_play">Get ready to play</string>
+    <string name="word">Word</string>
+    <string name="skip">SKIP</string>
+    <string name="next">Next</string>
+    <string name="your_next_word_is">Your next word is..</string>
+    <string name="your_score_is">Your score is..</string>
+    <string name="play_again">Play Again</string>
+    <string name="icon_for_home_button">Icon for home button</string>
+    <string name="_00">00</string>
+    <string name="quit">Quit</string>
+    <string name="quotes">\"%s\"</string>
+    <string name="about_game">About Game</string>
+    <string name="game_intro">Guess it is a word guessing game which can be played by
+        minimum two players where player one will hold the phone without facing phone screen then player two
+    will start game and player one has to guess word with help of player two without facing screen and talking.</string>
+    <string name="introduction">Introduction</string>
+    <string name="rules">Rules</string>
+    <string name="game_rules_1">1. Player one will hold phone above his or her head.</string>
+    <string name="game_rules_2">2. Player two will start game and try to express the word without speaking to player one.</string>
+    <string name="game_rules_3">3. Player one will guess the word if got it correct so player two will tap on next button
+    or if player one want to skip the word so player two has to tap skip button.</string>
+    <string name="game_rules_4">4. On guessing correct word 10 points will be added and on guessing wrong word
+        10 points will be subtract to player one.</string>
+    <string name="game_rules_5">5. The time is one minute so any player who will guess max word correct will won the game.</string>
+    <string name="game_rules_6">6. If any player quits from game will lose.</string>
+    <string name="about_app_icon_for_game_introduction_and_rules">About app icon for game introduction and rules.</string>
+    <string name="play_again_icon">play again icon</string>
+    <string name="app_about_icon_for_game_rules">app about icon for game rules</string>
+</resources>
